@@ -1,0 +1,12 @@
+.DS_Store
+node_modules/
+.env
+.env.local
+*.log
+dist/
+build/
+.vscode/
+*.key
+*.pem
+private/
+secrets/
