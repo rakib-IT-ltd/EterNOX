@@ -11,7 +11,7 @@ const TOKEN_CONFIG = {
   totalSupply:     1_000_000_000,
   price:           0.0213,
   standard:        'MIND20',
-  twitter:         'https://x.com/EterNox01',
+  x:               'https://x.com/EterNox01',
   telegram:        'https://t.me/eternox1',
   dex:             'https://v2.mindchain.info/',
   explorer:        'https://mainnet.mindscan.info',
